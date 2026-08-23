@@ -30,4 +30,18 @@ jute-pest-classification/
 ├── requirements.txt        # Required Python packages
 └── README.md               # Project documentation
 
+---
+
+## ⚙️ Installation & Running Locally
+
+To set up and run the application on your local machine, open your terminal and run the following commands block by block:
+
+```bash
+git clone [https://github.com/ADEM-SIMSEK/jute-pest-classification.git](https://github.com/ADEM-SIMSEK/jute-pest-classification.git)
+cd jute-pest-classification
+pip install -r requirements.txt
+streamlit run app.py
+
+---
+
 ## Author: Adem Şimşek
