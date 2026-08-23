@@ -32,7 +32,7 @@ jute-pest-classification/
 
 ---
 
-# ⚙️ Installation & Running Locally
+## ⚙️ Installation & Running Locally
 
 To set up and run the application on your local machine, open your terminal and run the following commands block by block:
 
