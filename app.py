@@ -8,8 +8,8 @@ import keras
 import numpy as np
 from PIL import Image
 
-# Google Drive file ID ve Model Dosya Adı (Kendi ID'niz ile güncelleyin)
-FILE_ID = 'BURAYA_GOOGLE_DRIVE_DOSYA_IDNIZI_YAZIN'
+# Google Drive file ID
+FILE_ID = '1bTgQRz5OmhTg6UJlndV6mSfb8mOB1h7s'
 MODEL_PATH = 'Jute_Pest_TL_Model.keras'
 
 @st.cache_resource
